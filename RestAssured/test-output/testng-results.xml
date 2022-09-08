@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-07T12:54:49Z" name="Default suite" finished-at="2022-09-07T12:55:05Z" duration-ms="16361">
+    <groups>
+    </groups>
+    <test started-at="2022-09-07T12:54:49Z" name="Default test" finished-at="2022-09-07T12:55:05Z" duration-ms="16361">
+      <class name="UsingLibrariesPerformCrudOperation.CreateAndDeleteTheProjectUsingRestAssuredUtility">
+        <test-method is-config="true" signature="dbConfig()[pri:0, instance:UsingLibrariesPerformCrudOperation.CreateAndDeleteTheProjectUsingRestAssuredUtility@78d6692f]" started-at="2022-09-07T18:24:48Z" name="dbConfig" finished-at="2022-09-07T18:24:49Z" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConfig -->
+        <test-method signature="CreateAndDelete()[pri:0, instance:UsingLibrariesPerformCrudOperation.CreateAndDeleteTheProjectUsingRestAssuredUtility@78d6692f]" started-at="2022-09-07T18:24:49Z" name="CreateAndDelete" finished-at="2022-09-07T18:24:58Z" duration-ms="9356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAndDelete -->
+        <test-method signature="delete()[pri:0, instance:UsingLibrariesPerformCrudOperation.CreateAndDeleteTheProjectUsingRestAssuredUtility@78d6692f]" started-at="2022-09-07T18:24:58Z" name="delete" finished-at="2022-09-07T18:25:05Z" duration-ms="6984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method is-config="true" signature="closedbconfig()[pri:0, instance:UsingLibrariesPerformCrudOperation.CreateAndDeleteTheProjectUsingRestAssuredUtility@78d6692f]" started-at="2022-09-07T18:25:05Z" name="closedbconfig" finished-at="2022-09-07T18:25:05Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedbconfig -->
+      </class> <!-- UsingLibrariesPerformCrudOperation.CreateAndDeleteTheProjectUsingRestAssuredUtility -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
